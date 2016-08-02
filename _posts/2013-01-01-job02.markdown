@@ -1,7 +1,7 @@
 ---
 layout: null
 title: 2013
-subtitle: NASA Marshall/UCSD SEDS
+subtitle: NASA Marshall/ UCSD SEDS
 image: "img/timeline/rocket.jpg"
 ---
 Engineering lead. First university to build and test a [3D printed rocket engine](https://www.youtube.com/watch?v=k15hnT65IfM)
