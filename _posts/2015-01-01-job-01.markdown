@@ -1,0 +1,7 @@
+---
+layout: null
+title: March. 2015
+subtitle:
+image: "img/timeline/pilot.jpg"
+---
+Received private pilot's license. I thank Grant for his patience and guidance

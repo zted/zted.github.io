@@ -1,0 +1,7 @@
+---
+layout: null
+title: Summer 2010
+subtitle: Woo Kwan Lee & Lo
+image: "img/timeline/law.jpg"
+---
+Commercial law & IPO
