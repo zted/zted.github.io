@@ -2,13 +2,14 @@ url: http://zted.github.io
 baseurl: ""
 
 # Site Settings
-title: Timeline
-description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
+# Also displayed at the top
+title:  Top
+description: "Ted Z"
 keywords: "jekyll, theme"
 google-tracking-id:
 
 # Career Settings
 # Default career thumbnail image.
-career-img: "img/timeline/default.jpg"
+career-img: "img/earth.jpg"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
