@@ -4,4 +4,4 @@ title: Sept. 2015
 subtitle: KU Leuven
 image: "img/timeline/arenburg.jpg"
 ---
-Started master's in AI, research adviser Sien Moens
+Started MSc in AI, adviser Sien Moens
