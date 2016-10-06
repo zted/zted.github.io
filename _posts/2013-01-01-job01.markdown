@@ -4,4 +4,4 @@ title: June 2013
 subtitle: UC San Diego
 image: "img/timeline/ucsd.jpg"
 ---
-Obtained BS Aerospace Engineering
+Obtained B.S. in Aerospace Engineering
