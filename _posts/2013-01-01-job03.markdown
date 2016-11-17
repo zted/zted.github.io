@@ -4,4 +4,4 @@ title: Sept. 2013 - May 2015
 subtitle: Rockwell Collins
 image: "img/timeline/rockwell.jpg"
 ---
-Software engineer for Embraer, Airbus, Beechcraft
+Software engineer for Embraer, Airbus, and Beechcraft programs
