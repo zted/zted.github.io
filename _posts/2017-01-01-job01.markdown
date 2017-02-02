@@ -1,0 +1,7 @@
+---
+layout: null
+title: Winter 2017
+subtitle: ETH Zurich CVLab
+image: "img/timeline/ethz.png"
+---
+Visiting to work on image question answering and paraphrasing.
