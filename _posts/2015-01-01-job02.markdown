@@ -4,4 +4,4 @@ title: Sept. 2015
 subtitle: KU Leuven
 image: "img/timeline/arenburg.jpg"
 ---
-Started M.S. in computer science, advised by Sien Moens
+Began M.S. in computer science. Sien Moens and Tinne Tuytelaars as advisers.

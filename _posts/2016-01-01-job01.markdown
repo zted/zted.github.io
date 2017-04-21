@@ -1,7 +1,7 @@
 ---
 layout: null
 title: Summer 2016
-subtitle: Johns Hopkins HLTCOE
+subtitle: Johns Hopkins
 image: "img/timeline/hopkins.jpg"
 ---
-Summer workshop in Computer Assisted Discovery Extraction and Translation [CADET](http://hltcoe.jhu.edu/research/scale-workshops/)
+Computer assisted discovery extraction and translation, hosted by [HLTCOE](https://hltcoe.jhu.edu/)
