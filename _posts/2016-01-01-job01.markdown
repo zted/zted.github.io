@@ -4,4 +4,4 @@ title: Summer 2016
 subtitle: Johns Hopkins
 image: "img/timeline/hopkins.jpg"
 ---
-Computer assisted discovery extraction and translation, hosted by [HLTCOE](https://hltcoe.jhu.edu/)
+Computer assisted discovery extraction and translation, hosted by [HLTCOE](https://hltcoe.jhu.edu/research/scale/scale-2016/)
