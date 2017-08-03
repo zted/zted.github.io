@@ -1,7 +1,7 @@
 ---
 layout: null
 title: Summer 2017
-subtitle: (https://rit.rakuten.co.jp/)<a href="https://rit.rakuten.co.jp/">Rakuten Institute of Technology</a>
+subtitle: <a href="https://rit.rakuten.co.jp/">Rakuten Institute of Technology</a>
 image: "img/timeline/rakuten.jpg"
 ---
 Research intern, extracting semantics from product pages.
