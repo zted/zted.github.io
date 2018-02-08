@@ -1,0 +1,7 @@
+---
+layout: null
+title: JAN. 2018
+subtitle: Goldman Sachs
+image: "img/timeline/gs.png"
+---
+Finance & research on NLP and information retrieval.
